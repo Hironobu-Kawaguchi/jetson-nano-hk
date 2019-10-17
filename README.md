@@ -21,9 +21,11 @@ https://github.com/FaBoPlatform/JetbotDocs
 
 https://faboplatform.github.io/JetbotDocs/
 
-Transistor-Gijyutu
+トランジスタ技術
 
 https://github.com/munetomo-maruyama/jetson_nano
+
+https://toragi.cqpub.co.jp/tabid/890/Default.aspx
 
 karaage0703
 
