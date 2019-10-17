@@ -11,6 +11,8 @@ https://github.com/dusty-nv/jetson-inference
 
 https://docs.nvidia.com/jetson/jetpack/index.html
 
+https://devtalk.nvidia.com/default/board/371/jetson-nano/
+
 Fabo
 
 https://github.com/FaBoPlatform/jetbot
