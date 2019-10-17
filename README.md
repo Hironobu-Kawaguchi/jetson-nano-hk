@@ -9,6 +9,8 @@ https://github.com/NVIDIA-AI-IOT/jetcam
 
 https://github.com/dusty-nv/jetson-inference
 
+https://www.nvidia.com/ja-jp/autonomous-machines/embedded-systems/jetson-nano/
+
 https://docs.nvidia.com/jetson/jetpack/index.html
 
 https://devtalk.nvidia.com/default/board/371/jetson-nano/
