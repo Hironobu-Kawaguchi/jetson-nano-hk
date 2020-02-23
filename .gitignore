@@ -1,1 +1,7 @@
 .ipynb_checkpoints
+*.jpg
+*.pth
+*.engine
+*.pb
+*.gz
+data
